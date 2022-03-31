@@ -1,6 +1,6 @@
 # MedevSuperviseur
 
-Lors de ce projet, vous aurez à créer une solution permettant de guider des robots dans un hôpital, afin d’acheminer des traitements anti-COVID, depuis la pharmacie dans les chambres de patients :
+Lors de ce projet, nous auvons eu à créer une solution permettant de guider des robots dans un hôpital, afin d’acheminer des traitements anti-COVID, depuis la pharmacie dans les chambres de patients :
 
 ● sans contact humain (sécurité sanitaire)
 
